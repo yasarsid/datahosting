@@ -1,0 +1,29 @@
+{
+  "weatherData": [
+    {
+      "day": "day1",
+      "maxTemp": 32,
+      "minTemp": 20
+    },
+    {
+      "day": "day2",
+      "maxTemp": 35,
+      "minTemp": 24
+    },
+    {
+      "day": "day3",
+      "maxTemp": 29,
+      "minTemp": 20
+    },
+    {
+      "day": "day4",
+      "maxTemp": 37,
+      "minTemp": 22
+    },
+    {
+      "day": "day5",
+      "maxTemp": 29,
+      "minTemp": 17
+    }
+  ]
+}
